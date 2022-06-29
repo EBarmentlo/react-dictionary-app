@@ -8,3 +8,8 @@
   text-align: center;
   font-size: 50px;
 }
+
+.App {
+  max-width: 900px;
+  margin: 0 auto;
+}
